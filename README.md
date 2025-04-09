@@ -18,5 +18,8 @@ Este projeto é uma clonagem da página inicial da Tesla, focando em replicar a 
 Para executar este projeto localmente, siga os passos abaixo:
 
 1. Clone o repositório para sua máquina local usando Git ou baixe os arquivos manualmente.
-2. Abra o arquivo `index.html` em um navegador da web (ou utilizando a extensão live-server)
+2. Abra o arquivo `index.html` em um navegador da web (ou utilizando a extensão live-server).
 
+## Link para Visualização
+
+Você pode acessar o projeto online através do seguinte link: [Página Tesla](https://tonygabriel60.github.io/pagina-tesla/)
